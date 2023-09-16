@@ -2,7 +2,7 @@ package practice;
 
 public class practice1 {
     public static void main(String[] args) {
-        System.out.println("Bismillah");
+        System.out.println("Bismillah her hayrın başıdır.");
 
     }
 }
